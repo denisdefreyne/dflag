@@ -3,7 +3,7 @@ module github.com/denisdefreyne/dflag
 go 1.24.0
 
 require (
-	github.com/go-chi/chi/v5 v5.2.1
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/prometheus/client_golang v1.22.0
 )
